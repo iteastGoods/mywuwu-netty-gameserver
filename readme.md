@@ -210,5 +210,4 @@ CREATE TABLE `wuwu_statistics` (
 INSERT INTO `wuwu_statistics` VALUES ('1', '0:0:0:0:0:0:0:1', '2017-05-21 13:35:18', '4', '1', '');
 
 
-请问1005Action这个是没有吗？ 
-   sendAll(new A1005Response(this.playerList.toArray(new YingSanZhangPlayer[0]), currentPlayer), 1005);
+
